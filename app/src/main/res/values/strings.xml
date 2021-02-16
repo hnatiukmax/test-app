@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">hnatiuk-test-app</string>
+
+    <string name="start">Start</string>
+    <string name="opened">Opened <b>%s</b> times</string>
+    <string name="user_id">userid: <b>%s</b></string>
+    <string name="title">title: <b>%s</b></string>
+
+</resources>
